@@ -1,3 +1,2 @@
 # machine-learning-assignment
-Tugas untuk mata kuliah machine learning adalah file yang bernama "**assignment01-apriori(mlxtend).ipynb**"<br>
-file lainnya adalah hasil coba-coba (experiment) yang saya lakukan
+this repo is contain my machine learning assignment for my Machine Learning class
